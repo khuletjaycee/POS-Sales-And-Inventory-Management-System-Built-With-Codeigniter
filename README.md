@@ -8,7 +8,7 @@ Their are 3 types of users.
 2. Clerk
 3. Admin
 If Cashier user will redirect to POS page, if clerk or admin will be redirect to inventory page.<br>
-In this image admin is login.
+In this image admin is login.<br>
 I miss spelled logout for lagout here :( 
 ![](images/2.PNG)
 This Is the Add New Item Form
